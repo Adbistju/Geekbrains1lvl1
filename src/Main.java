@@ -59,3 +59,4 @@ public class Main {
         }else {System.out.println(age + " год, не является високосным.");}
     }
 }
+//1001
